@@ -1,0 +1,5 @@
+--2021-05-17 02:13:26--  https://raw.githubsercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+raw.githubsercontent.com (raw.githubsercontent.com) をDNSに問いあわせています... 70.32.1.32
+raw.githubsercontent.com (raw.githubsercontent.com)|70.32.1.32|:443 に接続しています... 接続しました。
+エラー: 証明書に記載されている別名とホスト名 `raw.githubsercontent.com' が一致しません
+raw.githubsercontent.com に安全の確認をしないで接続するには、`--no-check-certificate' を使ってください。

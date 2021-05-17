@@ -1,0 +1,7 @@
+{
+  "name": "taskleaf",
+  "private": true,
+  "dependencies": {
+    "eslint": "^7.26.0"
+  }
+}
